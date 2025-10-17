@@ -33,7 +33,6 @@ The project workflow is divided into several steps, as detailed in the Jupyter n
 3.  **Data Splitting**: Splitting data 80 training 20 testing for data that have no splitting from the source.
 4.  **Feature Extraction**: Converting text into a numeric form that can be understood by the model.
 5.  **Model Training & Evaluation**: Implemented and compared several models, such as LSTM, Bidirectional LSTM, and BERT. The models were evaluated using metrics like Accuracy, Precision, Recall, and F1-Score.
-6.  **Result Visualization (`04_result_visualization.ipynb`)**: Visualizing model performance through confusion matrices and accuracy plots.
 
 ---
 ## 📊 Key Findings & Results
