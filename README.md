@@ -80,7 +80,6 @@ The repository is structured as follows:
 
 ```
 Exploring Emotion Recognition Techniques for Text from Twitter, Blog Comments, and Movie Dialogue/
-├── data/         # Contains all dataset 
 ├── notebooks/    # Jupyter notebooks for each dataset
 ├── results/      # Figures, tables, and other outputs
 └── README.md     # Project overview
