@@ -86,3 +86,14 @@ Exploring Emotion Recognition Techniques for Text from Twitter, Blog Comments, a
 ```
 
 ---
+
+## 🚀 Notebooks & Implementation
+The complete implementation, analysis, and visualization for each dataset can be accessed directly through the following online notebooks:
+
+1.  **"Emotions" by Elgiriyewithana**: [Link to notebook](https://www.kaggle.com/code/hilqudz/emotionssss)
+2.  **"Emotion Dataset" by Parul Pandey**: [Link to notebook](https://www.kaggle.com/code/hilqudz/zip-dataset)
+3.  **"ISEAR" by Faisal Santo**: [Link to notebook](https://colab.research.google.com/drive/1EW7uu9XOTzgU5QhmS6TRN9U76pRaIHHv?usp=sharing)
+4.  **"Emotion Dataset" by Abdallah Wagih**: [Link to notebook](https://colab.research.google.com/drive/1xnLPPszFoIRGZXVlxf1eYRsePCqE6-00?usp=sharing)
+5.  **MELD (Multimodal EmotionLines Dataset)**: [Link to notebook](https://www.kaggle.com/code/hilqudz/melddd-ok)
+
+---
